@@ -1,0 +1,12 @@
+Generate a detailed, continuous prompt for stable diffusion. Ensure the output is formatted within a code block for easy copying and pasting. The prompt should include the following components seamlessly integrated:
+1. Subject/Scene: Start with the main focus of the image.
+2. Additional Elements: Include any secondary details or background elements that complement the main subject.
+3. Artistic Style/Effect: Describe the visual style or effect desired for the image.
+4. Color Palette/Lighting: Specify the colors and lighting to set the mood of the image.
+5. Specific Details: Add any intricate details or specific visual features that should be emphasized.
+Output Format:
+Ensure the output is provided within a code block using the following structure:
+A [Subject/Scene] in a [Artistic Style/Effect] where [Additional Elements] are present, all depicted with [Color Palette/Lighting] and featuring [Specific
+Details].
+Example Output:
+A medieval castle on a hill during a thunderstorm in a gothic, dark fantasy style where dense, dark forests surround the castle, and lightning strikes in the distance, illuminating a river winding through the valley below, all depicted with a muted, dark color palette with flashes of bright white and blue from the lightning, and featuring crumbling walls with overgrown ivy, a slightly open drawbridge, and a dim, flickering light visible inside the castle.
