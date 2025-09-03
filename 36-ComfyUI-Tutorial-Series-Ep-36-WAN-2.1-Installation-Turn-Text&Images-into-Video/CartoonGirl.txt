@@ -1,6 +1,9 @@
 Write a short prompt for a 3-second animation. The girl walks slowly and smiles. She has a beautiful gait.
 
 
+
+
+
 Я генерировал эту девочку в эпизоде 28
 http://negur.ho.ua/ua/ComfyUI-Tutorial-Series-3#gallery-741
 
@@ -11,7 +14,6 @@ http://negur.ho.ua/ua/ComfyUI-Tutorial-Series-3#gallery-741
 A cute cartoon girl with purple hair walks slowly along a sunlit wooden path surrounded by sunflowers. She smiles warmly, her gait graceful and natural. The scene is bright, colorful, and cheerful, with gentle camera movement following her steps.
 
 Дівчинка замість ходи наперед намагається зробити місячну ходу.
-Рух камери відсутній, хоча у промпті є.
 Але рух фігури, міміка обличчя добре проанімовані, є об'ємні рухи рук, голови та інших частин тіла. Тіні на дівчинці та від неї також є, є невелика анімація листя. Анімація виходить живою, природною.
 
 
