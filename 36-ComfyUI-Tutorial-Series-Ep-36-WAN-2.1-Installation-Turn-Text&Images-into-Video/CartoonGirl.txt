@@ -7,7 +7,7 @@ Write a short prompt for a 3-second animation. The girl walks slowly and smiles.
 Я генерував цю дівчинку в епізоді 28
 http://negur.ho.ua/ua/ComfyUI-Tutorial-Series-3#gallery-741
 
-Генерував по промпту
+Генерував відео по промпту: 
 
 A cute cartoon girl with purple hair walks slowly along a sunlit wooden path surrounded by sunflowers. She smiles warmly, her gait graceful and natural. The scene is bright, colorful, and cheerful, with gentle camera movement following her steps.
 
