@@ -1,0 +1,10 @@
+Я згерував приблизно 150 відео на ltxv-13b-0.9.8 з цією дівчиною інопланетянкою, з них підійшли приблизно 30, де камера не збоїла. 
+Але в цих 30 іноді є невеликі рухи камери. Також у цих 30-ти не повністю збігалося все за промптом.
+
+A hyper-realistic close-up of a futuristic alien humanoid woman with smooth green skin, faint freckles, and subtle biomechanical seams on her bald head. She faces the camera directly under soft, high-contrast studio lighting. The camera is fixed on a sturdy tripod and remains perfectly still, capturing every detail with a shallow depth of field. She gazes sensually into the lens, her blue eyes blinking slowly before curving into a faint, subtle smile. The atmosphere is moody and intimate, evoking a big-budget sci-fi film’s character reveal scene, with a focus on emotional nuance and ultra-sharp cinematic detail.
+
+Дві третини генерацій із неправильними переїздами камер. Хоча в промпті зазначено, що камера не рухається, вона все одно може обертатися навколо об'єкта, може наближатися, може зникнути фокус, камера може різко збільшити якусь частину об'єкта. 
+Камера сильно збоїть на людях. Коли я генерував анімацію із зайцем в уроці, збоїв не було. Тобто у кожного зображення та генерації з промптом камера може поводитися по-різному. В одних генераціях взагалі немає руху камери як слід, потім генеруєш інші версії seed і йдуть різні збої.
+
+Можуть з'явитись якісь нові ракурси, які не були в промті, змінитися колір людини, але це було рідко.
+Основний збій - людина робить не по центру, а зрушена в сторони через рух, сіпання камери.
