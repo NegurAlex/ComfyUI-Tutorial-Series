@@ -1,0 +1,9 @@
+У мене запустилося це, хоча у вимогах якщо VRAM < 16 Gb треба обирати Q6.
+hidream-i1-full-Q8_0.gguf  17.4 GB
+clip_l_hidream.safetensors  236 MB
+clip_g_hidream.safetensors  1.29 GB
+umt5_xxl_fp8_e4m3fn_scaled.safetensors  6.27 GB
+llama_3.1_8b_instruct_fp8_scaled.safetensors  8.45 GB
+Всі моделі для цього воркфлоу разом важать: 33.64 Gb!
+Робот згенерувався якісно, але перша генерація тривала 11 хвилин 13 секунд!
+Після завантаження моделей, друга генерація тривала біля 9 хвилин.
