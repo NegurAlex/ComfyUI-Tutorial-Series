@@ -1,0 +1,7 @@
+https://www.krea.ai/video
+
+При промпте 
+
+360 degree camera rotation, slowly cinematic, woman smile subtly, white background 
+не вращалась полностью на 360 градусов дважды.
+Сгенерировало быстро, где-то за минуту или несколько минут
