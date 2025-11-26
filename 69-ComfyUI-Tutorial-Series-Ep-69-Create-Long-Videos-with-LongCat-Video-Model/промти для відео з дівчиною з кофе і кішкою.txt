@@ -1,0 +1,17 @@
+Всього у відео 768x768 було 6 відео по 91 кадр, вийшло 31 секунд.
+
+Промпти для кожної частини:
+
+A young woman with curly purple hair sits at a cozy café table, wearing a black turtleneck. The camera is static, centered in front of her. She gently stirs her coffee in a white mug with a spoon, soft warm lighting and a calm atmosphere.
+
+the woman lifts the spoon from the mug and sets it on the table, Her movements are natural
+
+the woman picks up the mug with both hands and takes a slow sip of coffee
+
+the woman place the cup on the table and smiles to the camera
+
+a black cat walking into frame from the side, jumping onto the table next to the mug. The woman looks at the cat with surprise and a gentle smile. 
+
+the woman take her hand from the mug and reaches out to pet the cat, smiling warmly as the cat relaxes beside her 
+
+У рекомендованих розмірах максимальний 768x768.
